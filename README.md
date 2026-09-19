@@ -3,7 +3,7 @@
 # What is Movies Admin?
 Its the admin side of a Movie website that should allow moderators and a like to edit and change anything that needs to happen in the sight itself.
 
-By the end it should be a fully functional administration panel for quicker and easier access to whatever an admin might need.
+By the end it'll be a fully functional administration panel for quicker and easier access to whatever an admin might need.
 
 # Why is it important?
 
